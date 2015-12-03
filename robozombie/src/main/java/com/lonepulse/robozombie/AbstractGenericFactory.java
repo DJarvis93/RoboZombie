@@ -34,6 +34,9 @@ import java.util.Map;
  * @since 1.3.0
  * <br><br>
  * @author <a href="http://sahan.me">Lahiru Sahan Jayasinghe</a>
+ *
+ *
+ * Added new comment for test
  */
 public class AbstractGenericFactory<INPUT, OUTPUT, FAILURE extends Throwable> 
 implements GenericFactory <INPUT, OUTPUT, FAILURE> {
